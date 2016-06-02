@@ -1,0 +1,1 @@
+PS4,1,400.0,src\Recursos\1.png,Consola,PS4,100,Xbox one,2,400.0,src\Recursos\2.png,Consola,Xbox one,100,Mouse,3,20.0,src\Recursos\3.png,Accesorio,PC,400,WOW,4,60.0,src\Recursos\4.png,Juego,PC,100,Kinect,5,100.0,src\Recursos\5.png,Accesorio,Xbox one,40,

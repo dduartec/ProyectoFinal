@@ -1,0 +1,1 @@
+dadc1,100.0,Wed Jun 01 17:32:36 COT 2016,dadc1,100.0,Wed Jun 01 23:28:41 COT 2016,
